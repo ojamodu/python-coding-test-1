@@ -17,6 +17,8 @@ while (5 attempts)
 
 else:
     print("You have exceeded the maximum number of attempts.")
+    print("The number was: ", number)
 
     for (attempts in range(5)):
-    display =
+    display = attempts 
+
